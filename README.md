@@ -6,4 +6,4 @@
 ## 效果展示
 <img src="result.jpg" width="50%">
 
-<img src="效果展示.gif" width="50%">
+<img src="效果展示.gif">
